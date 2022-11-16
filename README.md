@@ -1,3 +1,1 @@
-# Hey! So I guess you found my github...
-
-Things are pretty quiet around these parts, so [maybe check out my blog instead](http://iamlynnmckay.com/).
+> `goto` [iamlynnmckay.com](http://iamlynnmckay.com/)
